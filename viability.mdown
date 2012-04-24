@@ -1,0 +1,23 @@
+Business Viability
+==================
+
+1. Can I make money from it?
+  1. How much will it cost to serve the smallest users?
+    1. Which cloud platform is best for this?
+    2. How many instances will I need at a minimum to run the platform?
+    3. How many users will I need to break even?
+  2. How much will I be able to charge per user?
+    1. Who are my competitors?
+    2. How much are they charging?
+    3. How does their feature set compare with mine?
+  3. What proportion of paid vs free users will I have?
+  4. How well will users convert from free to paid?
+2. Can I get people to know about it?
+  1. What channels are there to get the message out?
+  2. How much will each of these channels cost?
+    1. How competitive are the Ad-words for this?
+  3. Do I have enough contacts to get the initial, core users so the service will be useful to real users?
+3. Can I build it?
+  1. What are the hardest bits of technology I'll need to put together?
+  2. Can the scope be cut down so I have a chance of building a version 1 with extremely limited resources?
+  3. Which features can be put off until later?
