@@ -1,4 +1,4 @@
 Helpdesk
 ========
 
-Helpdesk is an efficiency ticketing system tailored for IT service providers.
+Helpdesk is an efficient ticketing system tailored for IT service providers.
